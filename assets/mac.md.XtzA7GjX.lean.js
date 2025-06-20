@@ -1,0 +1,1 @@
+import{_ as r,a,o as t,ag as i}from"./chunks/framework.5tktTsRe.js";const m=JSON.parse('{"title":"MacOS","description":"","frontmatter":{},"headers":[],"relativePath":"mac.md","filePath":"mac.md"}'),o={name:"mac.md"};function l(n,e,f,h,p,s){return t(),a("div",null,e[0]||(e[0]=[i("",70)]))}const d=r(o,[["render",l]]);export{m as __pageData,d as default};
