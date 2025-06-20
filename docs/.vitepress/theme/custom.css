@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap');
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  line-height: 1.6;
+}
+
+:root {
+  --vp-c-bg: #1b1b1f !important;
+  --vp-c-bg-alt: #161618;
+  --vp-c-text: #eaeaea;
+
+  --vp-c-brand-1: #afa9e7;
+  --vp-c-brand-soft: #857be4;
+
+  --vp-custom-block-info-bg: #272a2f;
+  --vp-custom-block-info-border: #272a2f;
+  --vp-custom-block-info-text: #dfdfd6;
+
+  --vp-custom-block-tip-bg: #272843;
+  --vp-custom-block-tip-border: #272843;
+  --vp-custom-block-info-text: #dfdfd6;
+
+  --vp-custom-block-warning-bg: #3a2e1f;
+  --vp-custom-block-warning-border: #3a2e1f4;
+  --vp-custom-block-warning-text: #dfdfd6;
+
+  --vp-custom-block-danger-bg: #3a1e1e;
+  --vp-custom-block-danger-border: #3a1e1e;
+  --vp-custom-block-danger-text: #dfdfd6;
+
+  --vp-home-hero-name-background: linear-gradient(120deg, #c4b5fd 30%, #7bc5e4);
+}
+
+:root {
+  /* Brand (primary) button */
+  --vp-button-brand-bg: #857be4;
+  --vp-button-brand-text: #1a1a1a;
+  --vp-button-brand-hover-bg: #9c93ec;
+
+  /* Alt (secondary) button */
+  --vp-button-alt-bg: #2a2a2a;
+  --vp-button-alt-text: #f0f0f0;
+  --vp-button-alt-hover-bg: #444444;
+}
+
+/* Make bold text heavier */
+strong, b {
+  font-weight: 800 !important;
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+/* Links no underline */
+.vp-doc a {
+  color: var(--vp-c-brand-1);
+  text-decoration: none;
+  text-underline-offset: 4px;
+  transition: text-decoration-color 0.25s;
+}
+.vp-doc a:hover {
+  text-decoration-color: var(--vp-c-brand-1);
+}
+
+::selection {
+  background-color: #6d55a6;
+  color: white;
+}
+
+.VPSidebar::-webkit-scrollbar {
+  width: 4px;
+}
+.VPSidebar::-webkit-scrollbar-thumb {
+  background: #444;
+  border-radius: 4px;
+}
+
+.custom-block {
+  border-left: 4px solid;
+  padding: 0.5em 1em;
+  margin: 1em 0;
+  border-radius: 6px;
+}
+
+.info.custom-block {
+  background-color: var(--vp-custom-block-info-bg);
+  border-color: var(--vp-custom-block-info-border);
+  color: var(--vp-custom-block-info-text);
+}
+
+.warning.custom-block {
+  background-color: var(--vp-custom-block-warning-bg);
+  border-color: var(--vp-custom-block-warning-border);
+  color: var(--vp-custom-block-warning-text);
+}
+
+.danger.custom-block {
+  background-color: var(--vp-custom-block-danger-bg);
+  border-color: var(--vp-custom-block-danger-border);
+  color: var(--vp-custom-block-danger-text);
+}
+
+.vp-doc {
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+.VPHeader, .VPFooter {
+  background-color: var(--vp-c-bg-alt);
+  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+#nprogress .bar {
+  background: var(--vp-c-brand-1);
+}
+
+:root {
+  --vp-home-hero-name-background: linear-gradient(120deg, #d2c6ff 30%, #857be4);
+}
+
+.VPHero .name {
+  font-size: 3rem;
+  font-weight: 800;
+  background-image: var(--vp-home-hero-name-background);
+  background-size: 100%;
+  background-repeat: repeat;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent !important;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+}
+
+/* Force dark mode styles */
+:root {
+  color-scheme: dark;
+}
+
+body {
+  background-color: #111111; /* your dark background */
+  color: #eaeaea; /* your light text */
+}
+
+/* Override the [data-theme] attribute that VitePress uses */
+html[data-theme='light'] {
+  background-color: #111111 !important;
+  color: #eaeaea !important;
+}
+
+/* Remove or hide the toggle button if it still appears */
+.VPSwitchAppearance {
+  display: none !important;
+}
