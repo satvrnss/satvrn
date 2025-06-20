@@ -11,14 +11,15 @@ export default defineConfig({
     },
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'FAQ', link: '/faq.md' }
     ],
     sidebar: [
       {
-        text: 'Examples',
+        text: '',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Frequently Asked Questions', link: '/faq.md' },
+          { text: 'Beginners Guide', link: '/api-examples' },
+          { text: 'Safety Concerns', link: '/safety.md' }
         ]
       }
     ],
