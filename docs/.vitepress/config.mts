@@ -6,6 +6,9 @@ export default defineConfig({
   base: '/satvrn/',
   appearance: false,
   themeConfig: {
+    search: {
+      provider: 'local'
+    },
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' }
@@ -22,7 +25,7 @@ export default defineConfig({
     socialLinks: [
       { icon: 'discord', link: 'https://discord.gg/satvrn' }
     ],
-    outline: [2, 3] // ← THIS is what shows h2 & h3 in sidebar TOC
+    outline: [2, 3]
   },
   markdown: {
     toc: {
