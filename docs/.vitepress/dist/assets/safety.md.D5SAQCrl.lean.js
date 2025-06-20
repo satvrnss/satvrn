@@ -1,1 +1,0 @@
-import{_ as t,a,o as r,ae as o}from"./chunks/framework.CsElxEOU.js";const m=JSON.parse('{"title":"Are the files safe?","description":"","frontmatter":{},"headers":[],"relativePath":"safety.md","filePath":"safety.md"}'),s={name:"safety.md"};function n(i,e,l,f,c,d){return r(),a("div",null,e[0]||(e[0]=[o("",6)]))}const p=t(s,[["render",n]]);export{m as __pageData,p as default};
