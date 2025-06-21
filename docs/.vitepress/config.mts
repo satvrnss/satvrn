@@ -7,6 +7,7 @@ export default defineConfig({
   description: "Editing Resources.",
   base: '/satvrn/',
   appearance: 'force-dark',
+  lastUpdated: true,
   themeConfig: {
     search: {
       provider: 'local'
