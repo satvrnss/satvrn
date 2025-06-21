@@ -17,6 +17,9 @@ export default defineConfig({
       { text: 'FAQ', link: '/faq.md' }
     ],
     sidebar: [
+      { text: 'Windows', link: '/windows.md' },
+      { text: 'MacOS', link: 'mac.md' },
+      { text: 'Extensions', link: 'extensions.md' },
       { text: 'Frequently Asked Questions', collapsed: false,
         items: [
           {text: 'General Questions', link: '/faq.md' },
