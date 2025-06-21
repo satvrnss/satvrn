@@ -1,1 +1,0 @@
-import{_ as r,a,o as t,ae as i}from"./chunks/framework.CsElxEOU.js";const d=JSON.parse('{"title":"Windows","description":"","frontmatter":{},"headers":[],"relativePath":"windows.md","filePath":"windows.md"}'),l={name:"windows.md"};function o(n,e,f,h,p,s){return t(),a("div",null,e[0]||(e[0]=[i("",97)]))}const c=r(l,[["render",o]]);export{d as __pageData,c as default};

@@ -1,5 +1,4 @@
-docs/.vitepress/cache/
-node_modules/.cache/
-docs/.vitepress/cache/deps/_metadata.json
-docs/.vitepress/cache/deps/vitepress___@vueuse_core.js
-docs/.vitepress/cache/deps/vitepress___@vueuse_core.js.map
+node_modules
+cache
+dist
+.vscode
