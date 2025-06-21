@@ -14,14 +14,15 @@ export default defineConfig({
       { text: 'FAQ', link: '/faq.md' }
     ],
     sidebar: [
-      {
-        text: '',
+      { text: 'Frequently Asked Questions', collapsed: false,
         items: [
-          { text: 'Frequently Asked Questions', link: '/faq.md' },
-          { text: 'Safety Concerns', link: '/safety.md' },
-          { text: 'Beginners Guide', link: '/beginnersguide.md' },
+          {text: 'General Questions', link: '/faq.md' },
+          {text: 'Windows Issues', link: '/faq-windows.md' },
+          {text: 'MacOS Issues', link: '/faq-macOS.md' },
         ]
-      }
+      },
+      { text: 'Safety Concerns', link: '/safety.md' },
+      { text: 'Beginners Guide', link: '/beginnersguide.md' },
     ],
     socialLinks: [
       { icon: 'discord', link: 'https://discord.gg/satvrn' }
