@@ -1,7 +1,9 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  head: [['link', { rel: 'icon', href: '/logo.ico' }]],
   title: "Satvrn",
+  titleTemplate:  ':title • Satvrn',
   description: "Editing Resources.",
   base: '/satvrn/',
   appearance: false,
