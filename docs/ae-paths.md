@@ -1,4 +1,4 @@
-# After Effects Installation Paths
+# **After Effects Installation Paths**
 
 If using another version of After Effects, **replace any mention of "2024" to match your version**.
 ## Windows

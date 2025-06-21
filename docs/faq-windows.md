@@ -2,11 +2,11 @@
 title: Windows Issues
 description: Common questions and troubleshooting for issues on Windows
 ---
-# Frequently Asked Questions
+# **Frequently Asked Questions**
 ::: tip
 Use **Ctrl+F** / **⌘+F** to easily navigate the page.
 :::
-## :star: Windows Issues
+## :star: **Windows Issues**
 ### 1. "Windows cannot complete the extraction. The destination file could not be created"
 The majority of our files are password encrypted which File Explorer doesn't support. In order to open our files without error, you’ll need to install a third party software, such as [**7-ZIP**](https://www.7-zip.org/download.html) to extract. 
 

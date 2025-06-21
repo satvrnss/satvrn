@@ -33,6 +33,7 @@ export default defineConfig({
       { text: 'Version Swap Guide', link: '/versionswapguide.md '},
       { text: 'Maxon Troubleshoot Guide', link: '/mxn-troubleshoot.md '},
       { text: 'After Effects Installation Paths', link: '/ae-paths.md '},
+      { text: 'Rosetta Guide (MacOS)', link: '/rosetta.md '},
     ],
     socialLinks: [
       { icon: 'discord', link: 'https://discord.gg/satvrn' }

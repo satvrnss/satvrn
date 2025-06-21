@@ -89,5 +89,5 @@ Our files are encrypted with a password, which can be found in our **Discord Ser
 [Universal Audio 1.6](https://www.mediafire.com/file/u88h5wpvyf55uun/Universal+Audio+v1.6.95.zip/file)  
 [Uwu2x](https://www.mediafire.com/file/r1mf4m8vgd3mk5k/uwu2x-7.3.zip/file)  
 
-**~** Not sure how to install some of these? [**Click here**](https://rentry.co/ae-paths) for a path list.  
+**~** Not sure how to install some of these? [**Click here**](ae-paths.md) for a path list.  
 ZXP files can be installed using [**ZXP installer.**](https://aescripts.com/learn/zxp-installer/?gad_source=1&gclid=EAIaIQobChMI9e7TorT9hgMV6IFaBR133gJDEAAYASAAEgIBt_D_BwE)

@@ -89,7 +89,7 @@ Includes all plugins by RE:VisionFX [(full list here)](https://pastebin.com/g6Xv
 [Heat Distortion](https://pixeldrain.com/u/ed1JnfWB) / [2](https://www.mediafire.com/file/w06i8m50jjkrb9n/HeatDistortion+(MAC).zip/file)  
 [Optical Flares 1.3.8](https://pixeldrain.com/u/Xo18xgRM) / [2](https://www.mediafire.com/file/19lx8exhkburvdm/VC_Optical_Flares_1.3.8_win%252Bmac.zip/file)  
 [Saber](https://www.videocopilot.net/blog/2016/03/new-plug-in-saber-now-available-100-free/)  
-[Twitch](https://pixeldrain.com/u/Xo5T7QqT) / [2](https://www.mediafire.com/file/3vbjtvt2r0qxmrl/Twitch+MAC.zip/file) - (**Not updated for M1+** — [Rosetta](https://rentry.co/rosetta-adobe) required)  
+[Twitch](https://pixeldrain.com/u/Xo5T7QqT) / [2](https://www.mediafire.com/file/3vbjtvt2r0qxmrl/Twitch+MAC.zip/file) - (**Not updated for M1+** — [Rosetta](rosetta.md) required)  
 [VC Color Vibrance](https://www.videocopilot.net/blog/2014/05/new-plug-in-color-vibrance/)
 
 ### Autokroma
@@ -179,7 +179,7 @@ Includes all Rowbyte distort plugins: Data Glitch, Bad TV, TVPixel, Dot Pixels, 
 [VHSCam 1.0](https://www.mediafire.com/file/six81ik9olzo087/VHSCam_Beta+(1.0.0)+-+DISCORD.GG+∕SATVRN.zip/file)
 
 #### Scripts & Extensions
-Scripts and extensions such as Flow or FXConsole can be found on [**this page.**](https://rentry.co/satvrn-extras)  
+Scripts and extensions such as Flow or FXConsole can be found on [**this page.**](extensions.md)  
 They are **not** plugins.
 
 ## :star: **OFX Plugins** 

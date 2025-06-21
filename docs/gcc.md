@@ -1,7 +1,7 @@
-# Adobe Ungenuine Popups Fix
+# **Adobe Ungenuine Popups Fix**
 All Adobe software includes a client called "Adobe Genuine Service" which periodically verifies whether installed Adobe apps are genuine or not, and if triggered, said software will be disabled after a 10 day grace period. **That said, there's no need to panic!**
 
-## Windows
+## **Windows**
 ::: info BASICS
 - Don't be on a virtual IP address (VPN/Proxy) - it will circumvent local settings such as hosts file or firewall rules.
 - Make sure your firewall is enabled or else no rules will not be applied.
@@ -84,7 +84,7 @@ C:\Program Files\Adobe\Acrobat DC\Acrobat\GC\AGSService.exe
 ```
 :warning: If the issue persists, you can create the same rules for "Inbound".
 
-## MacOS
+## **MacOS**
 ::: info BASICS
 - Don't be on a virtual IP address (VPN/Proxy) - it will circumvent local settings such as hosts file or firewall rules.
 - Make sure your firewall is enabled or else no rules will not be applied.

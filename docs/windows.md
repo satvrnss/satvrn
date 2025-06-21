@@ -250,7 +250,7 @@ Includes AI Relight 1.1, AI Color Match Pro 1.3.4, AI Depth of Field 1.1, Diffus
 [VariFont 2.0.1](https://pixeldrain.com/u/TUoRYnh3) / [2](https://www.mediafire.com/file/rmmq3puv6aj4nes/Aescripts_VariFont_v2.0.1_WinMac.zip/file)
 
 #### Scripts & Extensions
-Scripts and extensions such as Flow or FXConsole can be found on [**this page.**](https://rentry.co/satvrn-extras)  
+Scripts and extensions such as Flow or FXConsole can be found on [**this page.**](extensions.md)  
 They are **not** plugins.
 
 ## :star: **OFX Plugins** 

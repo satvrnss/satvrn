@@ -1,4 +1,4 @@
-# Maxon Troubleshooting Guide
+# **Maxon Troubleshooting Guide**
 **Please pay attention while reading this guide and it's descriptions!**
 
 ## **You installed the plugins but it wont show in After Effects:**

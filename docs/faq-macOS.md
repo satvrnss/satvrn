@@ -2,11 +2,11 @@
 title: MacOS Issues
 description: Common questions and troubleshooting for issues on MacOS.
 ---
-# Frequently Asked Questions
+# **Frequently Asked Questions**
 ::: tip
 Use **Ctrl+F** / **⌘+F** to easily navigate the page.
 :::
-## :star: MacOS Issues
+## :star: **MacOS Issues**
 ### 1. "After Effects can't continue: unexpected failure during application startup."
 After Effects 2021 and below are not compatible with Sonoma.
 You won’t be able to launch these versions of After Effects. Your only option is to install After Effects 2022 or higher.
@@ -18,7 +18,7 @@ You won’t be able to launch these versions of After Effects. Your only option 
 ### 2. "The following plugins are installed but are not yet compatible with this version".
 This issue occurs when a user installs a plugin only supporting Intel Macs (older version or crack) on After Effects that is running native to Apple Silicon (M1+ chip on 2022 and higher).
 
-[**Click here**](https://rentry.co/rosetta-adobe) for an in-depth explanation, as well as possible fixes and workarounds.
+[**Click here**](rosetta.md) for an in-depth explanation, as well as possible fixes and workarounds.
 
 ### 3. "[X] is damaged and cannot be opened, you should eject the disk image / you should move it to the trash."
 #### **If the error occurs when installing software/plugins:**

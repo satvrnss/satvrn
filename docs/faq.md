@@ -2,25 +2,27 @@
 title: Frequently Asked Questions
 description: Common questions and troubleshooting for software and plugins.
 ---
-# Frequently Asked Questions
+# **Frequently Asked Questions**
 ::: tip
 Use **Ctrl+F** / **⌘+F** to easily navigate the page.
 :::
-## :star: General Questions
+## :star: **General Questions**
 ### 1. Is [X] plugin compatible with my After Effects version?
-The majority of plugins available on our Rentry will work on any "common" version of After Effects (2018+). Most scripts will only work on 2020/21+.
+The majority of plugins available on will work on any "common" version of After Effects (2018+). Most scripts will only work on 2020/21+.
 
 ### 2. How can I resolve "This unlicensed Adobe app will be disabled soon"?
-This alert is fairly common and nothing you need to freak out over. [**Click here**](https://rentry.co/adobe-gcc) to learn how to remove it.
+This alert is fairly common and nothing you need to freak out over.  
+[**Click here**](gcc.md) to learn how to remove it.
 
 ### 3. What will happen if I switch After Effects versions? (plugins, presets, etc..)
-[**Click here**](https://rentry.co/saturn-aeswap) to learn how you can make a smooth transition when upgrading versions without losing anything. It's easier than you might think.
+[**Click here**](versionswapguide.md) to learn how you can make a smooth transition when upgrading versions without losing anything. It's easier than you might think.
 
 ### 4. What are plugins and which ones should I download?
-[**Click here**](https://discord.com/channels/1204538209057382493/1230370991985786911) for a recommendation list.
+[**Click here**](beginnersguide.md#what-are-plugins-and-which-ones-should-i-get) for a recommendation list.
 
 ### 5. Which version of After Effects is the "best"?
-The newest version (features) is always worth getting as long as you have enough RAM and a good CPU, unless you're on Mac or on a lower end PC. [**Click here**](https://discord.com/channels/1204538209057382493/1381227246106447942) for more information.
+The newest version (features) is always worth getting as long as you have enough RAM and a good CPU, unless you're on Mac or on a lower end PC.  
+[**Click here**](beginnersguide.md#which-version-of-after-effects-should-i-get) for more information.
 
 ### 6. Can I download cracked plugins even though I have a legitimate copy of After Effects?
 Yes.

@@ -1,4 +1,4 @@
-# After Effects Version Swap Guide
+# **After Effects Version Swap Guide**
 
 ::: info
 This is a quick, comprehensive guide on how to swap After Effects versions efficiently. This guide includes how to transfer your workspaces, plugins and scripts, along with your User Presets.  
@@ -22,7 +22,7 @@ These plugins are called *global plugins* and will be located in your MediaCore 
 - ~/Library on MacOS
 :::
 
-## Windows
+## **Windows**
 *Install your new version of After Effects. You can have 2+ versions installed simultaneously.*
 
 1. Create a new folder anywhere on your computer. **This will be your backup folder.** I recommend placing it on your Desktop for easy access.
@@ -81,7 +81,7 @@ C:\Users\%username%\AppData\Roaming\Adobe\After Effects\25.2
 ```
 - **Hit replace** if prompted.
 
-## MacOS
+## **MacOS**
 *Install your new version of After Effects. You can have 2+ versions installed simultaneously.*
 
 1. Create a new folder anywhere on your computer. **This will be your backup folder.** I recommend placing it on your Desktop for easy access.

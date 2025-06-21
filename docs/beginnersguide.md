@@ -1,4 +1,4 @@
-# Beginner's Guide
+# **Beginner's Guide**
 
 ## **Which version of After Effects should I get?**
 Depending on where or who you ask this question, you’ll hear many different answers, and while they may not necessarily be wrong, they are often very biased. The "best" version of Adobe After Effects ultimately depends on your need for the latest features, preferences, as well as hardware compatibility.
@@ -25,7 +25,8 @@ However, if your system meets Adobe’s minimum requirements, you should conside
 Do keep in mind that After Effects projects are not backwards compatible. You won’t be able to open project files or import presets originally made with a version of After Effects newer than yours.  
 - You can downgrade project files by going to **File > Save As > Save a Copy As (version).**
 
-If you’re on macOS, [**read this**](<https://rentry.co/rosetta-adobe>) to learn about Apple Silicon and Sonoma compatibility issues. Mac users have different factors to consider compared to Windows users.
+#### **If you’re on macOS,**
+[**Read this**](rosetta.md#which-after-effects-version-should-i-install) to learn about Apple Silicon and Sonoma compatibility issues. Mac users have different factors to consider compared to Windows users.
 
 ## **Saving and importing presets (.ffx, .mblook & .rgx)**
 Presets allow users to save any adjustments they’ve made into a tiny file. Presets can help you save time by allowing you to easily re create transitions or effects in just one click. After Effects editors often share presets with one another, rather this be between friends, free online resources, or paid / premium content.
@@ -42,7 +43,7 @@ For better organization, users can choose to create sub-folders in User Presets.
 For example, one folder for color corrections and another for shakes. You can organize and name your folders however you’d like, as long as they’re located under “User Presets” it doesn’t matter. You’ll be able to drop down these folders, ultimately resulting in a clean list inside After Effects.
 :::
 
-#### Incorrect guides online may use:
+#### **Incorrect guides online may use:**
 ```
 Program Files (“Applications” on Mac)\Adobe\Adobe After Effects (version)\Support Files\Presets
 ```
@@ -70,7 +71,7 @@ Documents\Red Giant\Magic Bullet Looks\Presets
 To import .mblook files, you’ll have to directly import them inside of Looks Builder, which will automatically convert them to .rgx for you.  
 To do this, select the folder you want them to save to, click the ➜ symbol on the top left, then select the files you wish to import.
 
-## What are plugins and which ones should I get?
+## **What are plugins and which ones should I get?**
 Plugins are effects which aren’t native to After Effects, meaning you download them separately (third party). By installing plugins you’re able to use hundreds of effects which you wouldn’t have otherwise. What plugins you install depends on your needs and wants, nor are all plugins used in every editing style. Hoarding plugins is also not ideal for storage or performance.
 
 #### **Below is a list of what the most “popular” plugins are, and what they do.**  
@@ -93,8 +94,8 @@ Plugins are effects which aren’t native to After Effects, meaning you download
 Some great plugins for glitch editing include: **Pixel Sorter, Omino, Glitchify, TV Distortion Bundle** and **Datamosh**.  
 The majority of plugin developers have promotion videos on YouTube which you can watch to get a visual idea of what they can do.
 
-## Composition Settings
-### Resolution
+## **Composition Settings**
+### **Resolution**
 ![Composition Settings](./public/B703F7F1-65EB-4EA9-8544-233C19E2824A.jpg)  
 __Resolution__ refers to the amount of pixels that exist inside an image. The first number represents the amount of pixels horizontally while the second number represent vertical. On the other hand, an __aspect ratio__ refers to the proportional relationship between an images width and height. 
 
@@ -102,7 +103,7 @@ __Resolution__ refers to the amount of pixels that exist inside an image. The fi
 Editing in higher resolutions will require a __powerful CPU__, __a good amount of RAM__ and __plenty of storage__. It’s also worth noting that the majority of social apps don’t support 4K and will automatically compress. 1080p is plenty good for casual work.
 :::
 
-### FPS Settings
+### **FPS Settings**
 The most common FPS in video editing. FPS represents the amount of frames per second.
 
 - `30FPS`: Standard fps & can be used for most things. Editing pictures, animations, sports etc.  
@@ -115,21 +116,21 @@ Want to edit in a fps lower than 30?
 Instead of adjusting your FPS in comp settings, consider using posterize time (an effect in After Effects) to avoid potential playback glitches. By using this effect you’ll also have the ability to lower the frame rate of specific layers rather than having your whole project affected, plus, set keyframes.
 :::
 
-### Start & Duration
+### **Start & Duration**
 There are little situations where you’d need to change the __start__ number, you should leave it at 0.
 
 Set your __duration__ to the length you want your edit to be. If you plan to edit to an audio that is 30 seconds long, you’d enter 0:00:30:00, additionally, your workspace will end at 30s.  
 If you were to import a video which is longer than your set duration, you won’t be able to preview all of it as it’ll get blocked off. You can always adjust your comp settings and workspace at anytime.
 
-### Other Settings
+### **Other Settings**
 For a stronger motion blur, you can go into the “advanced” tab and increase your shutter angle and samples per frame. Intense motion blur is not recommended while also using RSMB.
 
 Your background color represents the color that will be visible when no other media is on the timeline. If you plan to do fades or flashes, you should set this color to black for convenience.  
 Make sure __to name your comps__ something recognizable, otherwise you may end up overwhelmed.
 
-## After Effects Shortcuts
-::: info note
-The Mac equivalent of Ctrl is Cmd
+## **After Effects Shortcuts**
+::: info NOTE
+The Mac equivalent of Ctrl is Cmd.
 :::
 
 Spacebar = play/pause your preview  
