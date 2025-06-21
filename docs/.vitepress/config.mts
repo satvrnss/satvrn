@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: "Satvrn",
+  head: [['link', { rel: 'icon', href: './public/logo.ico'}]],
   description: "Editing Resources.",
   base: '/satvrn/',
   appearance: 'force-dark',
