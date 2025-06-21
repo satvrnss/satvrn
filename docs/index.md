@@ -27,4 +27,13 @@ features:
   - title: Extensions
     link: /extensions.md
     details: Extensions & scripts.
+  - title: Adobe Version Swap Guide
+    link: /versionswapguide.md
+    details: Quick, comprehensive guide on how to swap versions efficiently.
+  - title: Adobe Ungenuine Popup Fix
+    link: /gcc.md
+    details: Remove the annoying "Adobe Genuine Service" popup.
+  - title: Maxon Troubleshooting Guide
+    link: /mxn-troubleshoot.md
+    details: Common issues & fixes for Maxon plugins (Red Giant & Universe).
 ---

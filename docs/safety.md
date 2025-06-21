@@ -2,8 +2,7 @@
 - Quick Answer: **Yes**  
 - **Scan Results:** [2024](<https://streamable.com/o40hbn>) / [2025](<https://streamable.com/3j5mtd>)
 
-As editors with nearly 10 years of experience and our own reputations to care for, we'd gain absolutely nothing by sharing harmful files. This Rentry is a free, simply for fun resource, and we do not profit off of it in any way.  
-We do not accept donations, use shortlinks, etc.
+As editors with nearly 10 years of experience and our own reputations to care for, we'd gain absolutely nothing by sharing harmful files. This is simply a for fun resource, and we do not profit off of it in any way. We do not accept donations, use shortlinks, etc.
 
 False positives [(**definition**)](https://encyclopedia.kaspersky.com/glossary/false-positive/) are not uncommon when pirating software, especially when it comes to Windows Defender, McAfee, or Norton. The majority of cracks have been modified or will modify the original software in order to bypass licensing, and sometimes this behavior can appear similar to behavior found in actual malware, and don't forget, is a crime!
 

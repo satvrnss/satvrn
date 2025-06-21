@@ -23,6 +23,10 @@ export default defineConfig({
       },
       { text: 'Safety Concerns', link: '/safety.md' },
       { text: 'Beginners Guide', link: '/beginnersguide.md' },
+      { text: 'Version Swap Guide', link: '/versionswapguide.md '},
+      { text: 'Adobe Genuine Service Popup Fix', link: '/gcc.md '},
+      { text: 'Maxon Troubleshoot Guide', link: '/mxn-troubleshoot.md '},
+      { text: 'After Effects Installation Paths', link: '/ae-paths.md '},
     ],
     socialLinks: [
       { icon: 'discord', link: 'https://discord.gg/satvrn' }

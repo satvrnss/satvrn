@@ -95,7 +95,7 @@ The majority of plugin developers have promotion videos on YouTube which you can
 
 ## Composition Settings
 ### Resolution
-![Composition Settings](./public/B703F7F1-65EB-4EA9-8544-233C19E2824A.jpg)  
+![Composition Settings](./B703F7F1-65EB-4EA9-8544-233C19E2824A.jpg)  
 __Resolution__ refers to the amount of pixels that exist inside an image. The first number represents the amount of pixels horizontally while the second number represent vertical. On the other hand, an __aspect ratio__ refers to the proportional relationship between an images width and height. 
 
 ::: info NOTE
