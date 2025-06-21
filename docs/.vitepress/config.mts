@@ -8,6 +8,7 @@ export default defineConfig({
   base: '/satvrn/',
   appearance: 'force-dark',
   lastUpdated: true,
+  cleanUrls: true,
   themeConfig: {
     search: {
       provider: 'local'
