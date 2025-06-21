@@ -6,7 +6,7 @@ export default defineConfig({
   titleTemplate:  ':title • Satvrn',
   description: "Editing Resources.",
   base: '/satvrn/',
-  appearance: false,
+  appearance: 'force-dark',
   themeConfig: {
     search: {
       provider: 'local'
