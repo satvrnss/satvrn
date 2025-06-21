@@ -10,7 +10,7 @@ Most (not all) major plugin developers have released support for Apple Silicon s
 
 That said, you can easily fix this by enabling “Rosetta” assuming an updated crack doesn't exist for it yet (refer to the list below). Do keep in mind that if you enable Rosetta you’ll lose performance benefits that come with owning an Apple Silicon Mac, however, in this situation you'll have to pick whichever is more important to you.
 
-### **What is Rosetta, *exactly*?**
+## **What is Rosetta, *exactly*?**
 
 Rosetta acts as a translator, allowing After Effects to run as if it were on an Intel Mac. This in turn makes any third party plugins only built for Intel now compatible as After Effects is ultimately the host, i.e., if After Effects is running as Intel, so do your plugins.  
 Enabling Rosetta is a simple process and you only have to do it once. 
@@ -20,7 +20,7 @@ Enabling Rosetta is a simple process and you only have to do it once.
 - You may not need Rosetta depending on which plugins you plan to use, scroll down to learn which have been updated with Apple Silicon support.
 :::
 
-#### **How to enable Rosetta:**
+## **How to enable Rosetta:**
 1. Open Finder
 2. Go to Applications and open “Adobe After Effects (Version)” (this is a folder)
 3. Right click the application (.app) file inside and click “Get Info”
@@ -45,7 +45,7 @@ sudo softwareupdate --install-rosetta --agree-to-license
 > **[Click here](https://youtube.com/shorts/LRh7WvCsmy8?si=-b0uGl5cnEW27Py5) for a video.**
 
 ***
-### **Which After Effects version should I install?**
+## **Which After Effects version should I install?**
 Read the column that applies to you.
 
 Main points:
@@ -66,13 +66,13 @@ User | Options
 :::
 
 *** 
-### **Plugin M1+ Compatibility (List)**
+## **Plugin M1+ Compatibility (List)**
 The following list is according to the cracks we provide specifically in **OUR** Discord Server, not what exist legitimately.  Depending on which plugins you plan to use, you may not have to worry about any of this at all. While it is true that some plugins haven't been updated since Apple Silicon, **most** of them are supported.
 
 Only popular plugins are listed. If you’re curious about a plugin that isn't mentioned, you can always look up the developer's release notes, see which version they added M1+ support for, and compare it with ours as versions are usually written in the files name somewhere.
 
 
-#### **Updated - (does not require Rosetta)**
+### **Updated - (does not require Rosetta)**
 BCC  
 Crossphere Bokeh  
 Deep Glow  
@@ -96,7 +96,7 @@ VFX Suite
 
 *Scripts and extensions are unaffected.*
 
-#### *Not updated - (**requires** Rosetta)*
+### **Not updated - (requires Rosetta)**
 All Mettle plugins  
 PixDither  
 Shooter Suite (Discontinued by developers)  
