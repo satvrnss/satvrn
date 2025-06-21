@@ -1,6 +1,3 @@
-title: 🪐 Satvrn
-titleTemplate: ':title • Windows'
-
 # **Windows**
 Having a brain, __attention to detail__ and some *cognitive thinking* is required.  
 **You will need an understanding of your system to do this.**
