@@ -10,7 +10,7 @@ Our files are encrypted with a password, which can be found in our **Discord Ser
 - **You must install [Keka](https://d.keka.io/) in order to open our files.**
 - Bypass Pixeldrain limits: https://pixeldrain-bypass.cybar.xyz/
 :::
-## **Software** 
+## :star: **Software** 
 ### After Effects
 [After Effects 2025.3](https://pixeldrain.com/u/USqCfjoZ) / [2](hhttps://www.mediafire.com/file/4vkobe06fo0qucf/Adobe+After+Effects+2025.3+MacOS+-+DISCORD.GG+∕SATVRN.zip/file) - (M1+ only)  
 [After Effects 2024.5](https://pixeldrain.com/u/Mw8sh9h6) / [2](https://www.mediafire.com/file/tm1hahnepqfsqev/After_Effects_24.5_%255BMonter_Group%255D.dmg/file)  
@@ -65,7 +65,7 @@ Our files are encrypted with a password, which can be found in our **Discord Ser
 [Blender](https://www.blender.org/download/)  
 [Handbrake](https://handbrake.fr)
 
-## **Adobe Plugins**
+## :star: **Adobe Plugins**
 The following plugins are compatible with **After Effects**, however plugins with a ✦ beside their name are also compatible with **Premiere Pro**.
 
 ### BorisFX
