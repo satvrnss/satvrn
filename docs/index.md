@@ -15,10 +15,7 @@ hero:
       link: /safety.md
     - theme: alt
       text: Beginner's Guide
-      link: 
-    - theme: alt
-      text: Discord
-      link: discord.gg/satvrn
+      link: /beginnersguide.md
 
 features:
   - title: Windows

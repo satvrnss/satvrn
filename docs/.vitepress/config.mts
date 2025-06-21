@@ -18,8 +18,8 @@ export default defineConfig({
         text: '',
         items: [
           { text: 'Frequently Asked Questions', link: '/faq.md' },
-          { text: 'Beginners Guide', link: '/api-examples' },
-          { text: 'Safety Concerns', link: '/safety.md' }
+          { text: 'Safety Concerns', link: '/safety.md' },
+          { text: 'Beginners Guide', link: '/beginnersguide.md' },
         ]
       }
     ],
