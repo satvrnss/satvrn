@@ -1,32 +1,35 @@
 # After Effects Installation Paths
 
-If using an older version of After Effects, replace any mention of "2024" to match your version.
+If using another version of After Effects, **replace any mention of "2024" to match your version**.
 ***
 
-### WINDOWS  ![win](https://images-ext-1.discordapp.net/external/nlbldzHH97K083MlfcBo-TCoKeO2udrytK9Nplh--Lc/%3Fsize%3D512/https/cdn.discordapp.com/emojis/1209289794102763550){30px:30px}
-
-#### PRESETS
-
-User Presets: `%USERPROFILE%\Documents\Adobe\After Effects 2024\User Presets
-` 
-
+## Windows
+### Presets
+#### **User Presets:**
+```
+%USERPROFILE%\Documents\Adobe\After Effects 2024\User Presets
+```
 All user presets (presets that you made or downloaded from others) should be saved to and imported here.
-
-Default Presets: `C:\Program Files\Adobe\Adobe After Effects 2024\Support Files\Presets`
-
-This location is reserved for default presets. Altering this location is not recommended unless for a specific reason.
-
 **Files that end in `.ffx` go here.**
 
-#### PLUGINS
+#### **Default Presets:**
+```
+C:\Program Files\Adobe\Adobe After Effects 2024\Support Files\Presets
+```
+This location is reserved for default presets. Altering this location is not recommended unless for a specific reason.
 
-Local: `C:\Program Files\Adobe\Adobe After Effects 2024\Support Files\Plug-ins` 
+### Plugins
+#### Local:
+```
+C:\Program Files\Adobe\Adobe After Effects 2024\Support Files\Plug-ins
+``` 
+Unique to that particular version of After Effects.  
+- Some plugins may also be installed to `\Effects`
 
-Unique to that particular version of After Effects. 
-
-Some plugins may also be installed to `\Effects`
-
-Common: `C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore` 
+#### Common:
+```
+C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore
+``` 
 
 Typically reserved for plugins that are compatible with both After Effects and Premiere, visible in all versions.
 
