@@ -6,6 +6,8 @@ description: Editing Resources.
 hero:
   name: Satvrn
   tagline: Editing Resources.
+  image:
+    src: /Satvrn.png
   actions:
     - theme: brand
       text: Frequently Asked Questions
