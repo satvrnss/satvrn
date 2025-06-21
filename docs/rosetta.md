@@ -96,7 +96,7 @@ VFX Suite
 
 *Scripts and extensions are unaffected.*
 
-#### Not updated - (**requires** Rosetta)
+#### *Not updated - (**requires** Rosetta)*
 All Mettle plugins  
 PixDither  
 Shooter Suite (Discontinued by developers)  
